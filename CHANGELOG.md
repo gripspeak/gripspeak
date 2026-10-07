@@ -2,6 +2,9 @@
 
 Updates install themselves on the headset (or right away with Settings → Check now). Every update is signed.
 
+## 0.1.6 · 2026-10-07
+- Fixes an occasional click at the start of a chime.
+
 ## 0.1.5 · 2026-10-06
 - Pressing and letting go without saying anything no longer types stray words.
 
