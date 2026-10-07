@@ -2,6 +2,9 @@
 
 Updates install themselves on the headset (or right away with Settings → Check now). Every update is signed.
 
+## 0.1.7 · 2026-10-07
+- No more random pops from the speakers.
+
 ## 0.1.6 · 2026-10-07
 - Fixes an occasional click at the start of a chime.
 
