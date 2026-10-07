@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup help
+    url: https://gripspeak.com/setup
+    about: Step-by-step install guide for the Steam Frame.
+  - name: Purchase, license or refund questions
+    url: mailto:support@gripspeak.com
+    about: Email support; please keep purchase links out of public issues.
