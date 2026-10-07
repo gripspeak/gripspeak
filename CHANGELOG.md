@@ -2,6 +2,9 @@
 
 Updates install themselves on the headset (or right away with Settings → Check now). Every update is signed.
 
+## 0.1.8 · 2026-10-07
+- Fixes the speaker pops for good.
+
 ## 0.1.7 · 2026-10-07
 - No more random pops from the speakers.
 
