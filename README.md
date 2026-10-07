@@ -28,6 +28,17 @@ Use **Issues → Bug report**. The most useful things to include: what you said 
 
 Audio is processed on the headset and never saved or sent. The app goes online to activate once, to check its license about once a day (a missed check changes nothing) and to look for signed updates. Full policy: https://gripspeak.com/privacy
 
+## Free alternatives
+
+Gripspeak isn't the only way to type by voice on the Frame. These free, open-source projects do it too (descriptions are their own, checked 2026-10-06):
+
+- [baketnk/frame-yap](https://github.com/baketnk/frame-yap): on-device voice typing for Steam Frame: hold a button, speak, review, type. Local speech recognition, no cloud.
+- [DeeJanuz/frame-voice](https://github.com/DeeJanuz/frame-voice): local voice dictation and wake word for the Steam Frame, typed into any app, push-to-talk from keyboard, mouse, or controller.
+- [groffta/whisper-frame](https://github.com/groffta/whisper-frame): on-device push-to-talk voice typing for the Steam Frame.
+- [juanramosjr1/frame-voice](https://github.com/juanramosjr1/frame-voice) (fuelCell Voice Typing): hold A + B, talk, let go; speech recognition on the headset.
+
+What Gripspeak adds: hold-both-grips and hands-free mode, a dictionary that learns your words, a one-click installer with a guided setup tour, signed automatic updates, support, and a 30-day refund.
+
 ## How it was made
 
 Gripspeak is made by one developer, with help from an AI coding assistant, and every feature was tested on a real Frame. Speech recognition uses NVIDIA's Parakeet TDT 0.6B v2 (CC BY 4.0).
