@@ -1,6 +1,14 @@
 # Changelog
 
-Updates install themselves on the headset (or right away with Settings → Check now). Every update is signed.
+Updates install themselves on the headset (or right away with Settings → Check for updates). Every update is signed.
+
+## 0.1.9 · 2026-10-12
+- The installer always opens its window and explains any problem, and says when it's updating rather than installing fresh.
+- The setup tour has a Back button, fits any window, can't get stuck on the paste step, and stays free of pop-ups until it's done.
+- Pasted download links activate reliably, even copied out of a message.
+- Gripspeak recovers on its own when SteamVR restarts during a game.
+- Saying "hyphen hyphen" types --, so "hyphen hyphen help" is --help.
+- Settings says "You're up to date" after a check, and open pages refresh themselves after an update.
 
 ## 0.1.8 · 2026-10-07
 - Fixes the speaker pops for good.
