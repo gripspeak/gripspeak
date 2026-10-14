@@ -2,6 +2,21 @@
 
 Updates install themselves on the headset (or right away with Settings → Check for updates). Every update is signed.
 
+## 0.2.0 · 2026-10-14
+- Hotkeys: a controller gesture types a saved phrase, optionally pressing Enter after.
+- Desktop apps get the right characters on any keyboard layout, and accented letters (é, ß, ñ) type as themselves.
+- A lone word after a pause keeps its first sound (Gripspeak listens before SteamOS's noise filter).
+- Typing with a stick on Steam's keyboard, including focus mode from the headset button, no longer sets off stick flicks.
+- Email addresses said in a sentence are typed as addresses.
+- Accidental repeats and restarted sentences are cleaned up; deliberate repeats stay.
+- AI polish never drops your words: if it would, your own words are typed instead.
+- Dictionary: newest words first, and a filter.
+- "Didn't catch that" asks you to try again when a voice was heard but no words.
+- Uninstall can also remove settings, dictionary and history.
+
+## 0.1.10 · 2026-10-14
+- Copy and paste in windows opened from VR (Gripspeak's settings, Chromium from the + list) no longer open Chromium's inspector.
+
 ## 0.1.9 · 2026-10-12
 - The installer always opens its window and explains any problem, and says when it's updating rather than installing fresh.
 - The setup tour has a Back button, fits any window, can't get stuck on the paste step, and stays free of pop-ups until it's done.
