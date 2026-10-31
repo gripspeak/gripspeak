@@ -24,7 +24,7 @@ Updates install themselves on the headset (or right away with Settings → Check
 - Stick typing on Steam's keyboard no longer turns off stick flicks after the keyboard closes.
 
 ## 0.2.0 · 2026-10-14
-- Hotkeys: a controller gesture types a saved phrase, optionally pressing Enter after.
+- Hotkeys: a controller gesture presses keys the Steam keyboard doesn't have, like Ctrl+Z, Ctrl+T or F11. It can also type a phrase you use often, with an optional Enter after.
 - Desktop apps get the right characters on any keyboard layout, and accented letters (é, ß, ñ) type as themselves.
 - A lone word after a pause keeps its first sound (Gripspeak listens before SteamOS's noise filter).
 - Typing with a stick on Steam's keyboard, including focus mode from the headset button, no longer sets off stick flicks.
