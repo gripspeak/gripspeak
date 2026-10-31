@@ -2,6 +2,27 @@
 
 Updates install themselves on the headset (or right away with Settings → Check for updates). Every update is signed.
 
+## 0.2.2 · 2026-10-30
+- Fixed: the microphone could go silent after Steam restarted.
+- Fixed: short replies like "yes" sometimes came out blank or wrong.
+- Fixed: counting could turn into a phone number.
+- Dictionary names come out right more often.
+- Updates are signed and roll back safely if an install fails. The update notice also shows in desktop mode.
+- What you dictate or copy stays out of the system's process list.
+- Translation (new, optional): type what you say in another language. It needs an OpenRouter account.
+- Settings: a long dictionary fades out, with a Show all button.
+
+## 0.2.1 · 2026-10-20
+- On the headset: copy in a window opened from VR, like Chromium, and paste in a desktop app like the terminal. It works the other way too.
+- Phone numbers stay numbers when they sound like a dictionary word.
+- Codes said one character at a time join up: "seven Z Q V nine two" types 7ZQV92.
+- Times come out as numbers: "dinner at six thirty" types "dinner at 6:30".
+- Street addresses: "one twenty three Main Street" types 123 Main Street.
+- Letters said one by one join up: "an L L C" types "an LLC".
+- Saved email addresses are found more often.
+- A domain on its own keeps no period: "live.com" types live.com.
+- Stick typing on Steam's keyboard no longer turns off stick flicks after the keyboard closes.
+
 ## 0.2.0 · 2026-10-14
 - Hotkeys: a controller gesture types a saved phrase, optionally pressing Enter after.
 - Desktop apps get the right characters on any keyboard layout, and accented letters (é, ß, ñ) type as themselves.
