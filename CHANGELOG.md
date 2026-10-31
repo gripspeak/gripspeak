@@ -2,6 +2,25 @@
 
 Updates install themselves on the headset (or right away with Settings → Check for updates). Every update is signed.
 
+## 0.3.0 · 2026-10-31
+- New: the setup tour has a little extra pizzazz.
+- New: say "slash" to type a slash. "Slash help" types /help. "A slash B" types A/B.
+- New: say version numbers. "Version one point one point three" types version 1.1.3. "V one point one point three" types v1.1.3.
+- Fixed: a short reply like "yes" could turn into a phrase from your dictionary.
+- Fixed: a made-up phrase could appear in front of a short sentence.
+- Fixed: "Let's do one tomorrow" typed "Let's do 1 tomorrow".
+- Fixed: "I'm" and "I'll" could lose their capital I.
+- Dictionary names keep their "'s", like "Gripspeak's".
+- Filler words, questions and spoken email addresses come out cleaner.
+- Settings says when a dictionary phrase needs a "heard as" spelling.
+- Losing the Steam display no longer stops Gripspeak.
+- The updater no longer gets stuck on "downloading" or "installing".
+- Closing the installer window partway through leaves nothing broken behind.
+- A headset that isn't activated keeps trying to restore its license.
+- Hidden control characters are never typed or copied.
+- Gripspeak's Settings page can't be shown inside another website.
+- The setup tour names your own button choices. Many small Settings fixes.
+
 ## 0.2.2 · 2026-10-30
 - Fixed: the microphone could go silent after Steam restarted.
 - Fixed: short replies like "yes" sometimes came out blank or wrong.
