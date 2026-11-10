@@ -5,7 +5,7 @@ Updates install themselves on the headset (or right away with Settings → Check
 ## 0.3.1 · 2026-11-10
 - Fixed: new installs stopped with "The speech model download is damaged."
 - Fixed: a pop-up like "Misheard something?" could open Settings while you were clicking something else. A pop-up now opens only when you point at it and click.
-- New: say "hyphen" between two words to join them. "VRC hyphen lead" types VRC-lead.
+- New: say "hyphen" between two words to join them. "Follow hyphen up" types follow-up.
 
 ## 0.3.0 · 2026-10-31
 - New: the setup tour has a little extra pizzazz.
